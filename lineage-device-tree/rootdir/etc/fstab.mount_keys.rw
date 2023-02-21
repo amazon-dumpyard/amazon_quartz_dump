@@ -1,0 +1,1 @@
+/dev/block/platform/bootdevice/by-name/keys     /mnt/vendor/keys     ext4     rw,noatime     wait,check,formattable
